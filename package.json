@@ -8,7 +8,7 @@
     "dev": "nodemon server"
   },
   "author": "ArifBro",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
